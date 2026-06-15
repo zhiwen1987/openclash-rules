@@ -1,0 +1,21 @@
+payload:
+  - DOMAIN-SUFFIX,massive.com
+
+  # Futu / moomoo
+  - DOMAIN-SUFFIX,futunn.com
+  - DOMAIN-SUFFIX,futu5.com
+  - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futubull.com
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,moomoo.com.sg
+  - DOMAIN-SUFFIX,moomoo.com.au
+  - DOMAIN-SUFFIX,moomoo.com.my
+
+  # Interactive Brokers / IBKR
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,interactivebrokers.com.hk
+  - DOMAIN-SUFFIX,interactivebrokers.com.sg
+  - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,ibkrcampus.com
+  - DOMAIN-SUFFIX,ibkrguides.com
+  - DOMAIN-SUFFIX,clientam.com
