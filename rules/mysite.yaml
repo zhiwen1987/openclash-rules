@@ -1,9 +1,7 @@
-DIRECT：直连：
-#自己
-*.ikhs.cn
-*.yubanmeiqin.love
-*.6wz.net
-*.kefu.me
-*.52ojk.com
-*.lla8.com
-*.6ta.net
+payload:
+  - DOMAIN-SUFFIX,yubanmeiqin.love
+  - DOMAIN-SUFFIX,6wz.net
+  - DOMAIN-SUFFIX,kefu.me
+  - DOMAIN-SUFFIX,52ojk.com
+  - DOMAIN-SUFFIX,lla8.com
+  - DOMAIN-SUFFIX,6ta.net
