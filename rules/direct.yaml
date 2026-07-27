@@ -66,3 +66,55 @@ payload:
   - '+.nhc.gov.cn'
   - '+.customs.gov.cn'
   
+  # 证券期货交易所 & 监管机构
+  - '+.csrc.gov.cn'
+  - '+.sse.com.cn'
+  - '+.szse.cn'
+  - '+.bse.cn'
+  - '+.shfe.com.cn'
+  - '+.czce.com.cn'
+  - '+.dce.com.cn'
+  - '+.cffex.com.cn'
+  - '+.gfex.com.cn'
+  - '+.chinaclear.cn'
+  - '+.neeq.com.cn'
+  - '+.csindex.com.cn'
+  - '+.cfmmc.com'
+  - '+.sac.net.cn'
+  - '+.amac.org.cn'
+  - '+.cfachina.org'
+
+  # 头部券商
+  - '+.htsc.com.cn'
+  - '+.citics.com'
+  - '+.csc108.com'
+  - '+.gtja.com'
+  - '+.ebscn.com'
+  - '+.guosen.com.cn'
+  - '+.gzq.com.cn'
+  - '+.xhsec.com'
+  - '+.xsc.com.cn'
+  - '+.xzsec.com'
+
+  # 保险集团
+  - '+.picc.com'
+  - '+.cpic.com.cn'
+  - '+.taikang.com'
+  - '+.china-lifegroup.com.cn'
+
+  # 行情、财经平台
+  - '+.eastmoney.com'
+  - '+.10jqka.com.cn'
+  - '+.xueqiu.com'
+  - '+.stcn.com'
+
+  # 支付、金融基础设施
+  - '+.unionpay.com'
+  - '+.alipay.com'
+  - '+.tenpay.com'
+  - '+.chinabond.com.cn'
+  - '+.shclearing.com'
+  - '+.nafmii.org.cn'
+  - '+.sipf.com.cn'
+  - '+.csf.com.cn'
+  - '+.investor.org.cn'
