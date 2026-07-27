@@ -3,7 +3,7 @@
 这个仓库基于上游模板自动生成最终的 `metafenliu.ini`：
 
 ```text
-https://raw.githubusercontent.com/usbog232/clashmetadingyue/main/metafenliu.ini
+https://raw.githubusercontent.com/zhiwen1987/openclash-rules/refs/heads/main/metafenliu.ini
 ```
 
 日常使用时，你只需要改：
@@ -19,12 +19,12 @@ custom/groups.ini
 
 1. 在 GitHub 新建一个空仓库，例如 `openclash-rules`。
 2. 把本目录里的文件上传到你的仓库。
-3. 进入 GitHub 仓库的 `Actions` 页面，启用 workflow。
+3. 进入 GitHub 仓库的 `操作` 页面，启用 workflow。
 4. 手动运行一次 `Sync OpenClash Template`。
 5. OpenClash 里使用你自己的 raw 地址：
 
 ```text
-https://raw.githubusercontent.com/Bloomberg-zhong/openclash-rules/main/metafenliu.ini
+https://raw.githubusercontent.com/zhiwen1987/openclash-rules/refs/heads/main/metafenliu.ini
 ```
 
 ## 新增一个应用
@@ -64,7 +64,7 @@ payload:
 然后在 `custom/rules.ini` 添加：
 
 ```ini
-ruleset= MySite,clash-domain:https://raw.githubusercontent.com/Bloomberg-zhong/openclash-rules/main/rules/mysite.yaml,86400
+ruleset= MySite,clash-domain:https://raw.githubusercontent.com/zhiwen1987/openclash-rules/main/rules/mysite.yaml,86400
 ```
 
 在 `custom/groups.ini` 添加：
