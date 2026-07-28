@@ -3,7 +3,7 @@ from pathlib import Path
 from urllib.request import urlopen
 
 
-UPSTREAM_URL = "https://raw.githubusercontent.com/usbog232/clashmetadingyue/main/metafenliu.ini"
+UPSTREAM_URL = "https://raw.githubusercontent.com/zhiwen1987/clashmetadingyue/refs/heads/main/metafenliu.ini"
 
 ROOT = Path(__file__).resolve().parents[1]
 UPSTREAM_DIR = ROOT / "upstream"
