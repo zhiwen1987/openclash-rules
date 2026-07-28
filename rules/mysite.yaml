@@ -44,7 +44,7 @@ payload:
   - '+.wenshushu.cn'
   # ========== 音色网站 ==========
   - '+.lang123.top'
-  - '+.fish.audio'
+
   # ========== 政府政务网站 ==========
   - '+.gov.cn'
   - '+.gjzwfw.gov.cn'
