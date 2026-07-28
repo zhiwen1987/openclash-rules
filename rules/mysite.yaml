@@ -42,6 +42,9 @@ payload:
   - '+.yunpan.360.cn'
   - '+.quqi.com'
   - '+.wenshushu.cn'
+  # ========== 音色网站 ==========
+  - '+.lang123.top'
+  
   # ========== 政府政务网站 ==========
   - '+.gov.cn'
   - '+.gjzwfw.gov.cn'
