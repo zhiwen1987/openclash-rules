@@ -44,7 +44,6 @@ payload:
   - '+.wenshushu.cn'
   # ========== 音色网站 ==========
   - '+.lang123.top'
-
   # ========== 政府政务网站 ==========
   - '+.gov.cn'
   - '+.gjzwfw.gov.cn'
@@ -76,7 +75,6 @@ payload:
   - '+.unionpay.com'
   - '+.alipay.com'
   - '+.tenpay.com'
-
   # ========== 自定义域名1 ==========
   - '+.pcbeta.com'
   - '+.qy96596.com'
@@ -95,3 +93,5 @@ payload:
   - '+.52ojk.com'
   - '+.lla8.com'
   - '+.6ta.net'
+  # ========== 音乐 ==========
+  - '+.kugo.com'
