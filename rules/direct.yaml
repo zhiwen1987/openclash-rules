@@ -212,4 +212,9 @@ payload:
   - 'ps.res.netease.com'
 # ========== Wifi Calling ==========
   - '+.pub.3gppnetwork.org'
+# ========== QQ登录 ==========
+  - 'localhost.ptlogin2.qq.com'
+  - 'localhost.sec.qq.com'
+  - '*.qq.com'
+  - '*.tencent.com'
   
