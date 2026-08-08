@@ -4,6 +4,8 @@ payload:
   - '+.taifanbo.com'
   - '+.taifanbo.top'
   - '+.razyy.com'
+  - '+.servicewechat.com'
+  - '+.wxgateway.com'
   # ========== 国内银行 ==========
   - '+.icbc.com.cn'
   - '+.abchina.com'
