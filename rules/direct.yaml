@@ -148,6 +148,8 @@ payload:
   - '+.pool.ntp.org'
   - 'time1.cloud.tencent.com'
   # ========== 其他 ==========
+  - '+.servicewechat.com'
+  - '+.wxgateway.com'
   - 'cable.auth.com'
   - 'network-test.debian.org'
   - 'detectportal.firefox.com'
